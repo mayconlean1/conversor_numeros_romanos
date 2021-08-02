@@ -1,0 +1,38 @@
+
+/* funcao do verificar
+const upperValor = valor.toUpperCase()
+resposta += upperValor.slice(indexFinalhRespostaOverline , upperValor.length)
+mostrarResposta(resposta) 
+*/ 
+
+/*
+const verificarBotao = self =>{
+    const inputPrincipal = document.querySelector('#inputPrincipal')
+
+    if (self.checked){
+        resposta = '<span id="overline">'
+        indexFinalhRespostaOverline = 0
+        inputPrincipal.value = ''
+        mostrarResposta('')
+
+    }else{
+        console.log(inputPrincipal.value.length != 0)
+        if(inputPrincipal.value.length != 0){
+            resposta += '</span>'
+            indexFinalhRespostaOverline = inputPrincipal.value.length -1
+        }else{
+            resposta = ''
+        }
+        
+    }
+    console.log(resposta.length)
+    
+}
+
+const verificarInputVazio = self =>{
+    console.log(self.value.length)
+    if(self.value.length == 0){
+        mostrarResposta(' ')
+    }
+}
+*/

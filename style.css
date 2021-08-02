@@ -1,0 +1,39 @@
+*{
+    padding:0;
+    margin: 0;
+}
+
+.titulo{
+    font-size: 24pt;
+    padding: 1rem;
+    text-align: center;
+}
+
+#botaotoogle{
+    text-align: center;
+    
+}
+
+.input{
+    padding:0.5rem 2rem 2rem 2rem ;
+    text-align: center;
+}
+
+
+
+#inputPrincipal{
+    font-size: 20pt;
+    text-align: center;
+    padding: 1rem;
+    text-transform: uppercase;
+    
+}
+
+.resposta{
+    font-size:25pt;
+    text-align: center;
+}
+
+#overline{
+    text-decoration: overline;
+}
